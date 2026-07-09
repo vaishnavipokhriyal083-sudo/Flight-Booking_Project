@@ -126,3 +126,5 @@ This project helped me gain practical experience in:
 This project demonstrates the application of supervised machine learning techniques to predict flight ticket prices accurately. After comparing multiple regression models, the **Random Forest Regressor** delivered the best performance with an **R² Score of 98.96%**, making it the most reliable model for this dataset. The project showcases a complete machine learning workflow—from data preprocessing to model optimization—and serves as a practical example of predictive analytics in the travel industry.
 
 ⭐ **If you found this project useful, feel free to star this repository and connect with me on LinkedIn!**
+
+ My Linkedin Profile - https://www.linkedin.com/in/vaishnavi-pokhriyal-48b7ba304/
